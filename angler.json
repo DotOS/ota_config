@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1562522985, 
-      "filename": "dotOS-P-v3.1-angler-OFFICIAL-20190707-1810.zip", 
-      "id": "d7ec06fa84d58662647e1cf54b365a73", 
+      "datetime": 1566325328, 
+      "filename": "dotOS-P-v3.1.1-angler-OFFICIAL-20190820-1822.zip", 
+      "id": "b7d081de12a8bb0537f7ae379735f9ee", 
       "romtype": "OFFICIAL",
-      "size": 577547219, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/angler/dotOS-P-v3.1-angler-OFFICIAL-20190707-1810.zip", 
-      "version": "v3.1",
+      "size": 613124429, 
+      "url": "https://downloads.sourceforge.net/project/dotos-downloads/dotp/angler/dotOS-P-v3.1.1-angler-OFFICIAL-20190820-1822.zip", 
+      "version": "v3.1.1",
       "changelog_system": "",
       "changelog_misc" : "",
       "changelog_device" : "",
       "changelog_settings" : "",
-      "changelog_securitypatch" : "June 05 2019"
+      "changelog_securitypatch" : "August 01 2019"
     }
   ]
 }
