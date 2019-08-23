@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1558013416,
-      "filename": "dotOS-P-v3.0-a3xelte-OFFICIAL-20190516-1330.zip",
-      "id": "15490eeca00aa711cdcde42ceab84f04",
+      "datetime": 1566582033,
+      "filename": "dotOS-P-v3.1.1-a3xelte-OFFICIAL-20190823-1740.zip",
+      "id": "45eb5d17c46844bc1153f43d0c868d93",
       "romtype": "OFFICIAL",
-      "size": 406833767,
-      "url": "https://downloads.sourceforge.net/project/dotos-downloads/dotp/a3xelte/dotOS-P-v3.0-a3xelte-OFFICIAL-20190516-1330.zip",
-      "version": "v3.0",
-      "changelog_system": "- Added font manager\n- Added more fonts\n- Update prebuilt apps\n- Add missing APN configs for some carriers",
+      "size": 404923771,
+      "url": "https://downloads.sourceforge.net/project/dotos-downloads/dotp/a3xelte/dotOS-P-v3.1.1-a3xelte-OFFICIAL-20190823-1740.zip",
+      "version": "v3.1.1",
+      "changelog_system": "- Android Q animations\n- Added OnePlus red accent colour\n- Updated prebuilt apps\n- Wrapped key support for File Based Encryption\n- Bug fixes",
       "changelog_misc": "",
-      "changelog_device": "- Add missing magnetometer config file\n- Update vendor security from 2018-07-30 to 2019-02-01\n- Improve NFC reliability\n- More SELinux fixes\n- Fixed issue that the device was not charging sometimes",
+      "changelog_device": "- HWC is working now\n- Improved battery life\n- Improved UI fluidity\n- SELinux fixes",
       "changelog_settings": "",
-      "changelog_securitypatch": "May 05 2019"
+      "changelog_securitypatch": "August 01 2019"
     }
   ]
 }
