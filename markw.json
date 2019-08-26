@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1563994362,
-      "filename": "dotOS-P-v3.1-markw-OFFICIAL-20190724-1853.zip",
-      "id": "297d941137c548e530f3911b7ac34320",
+      "datetime": 1566668140,
+      "filename": "dotOS-P-v3.1.1-markw-OFFICIAL-20190824-1736.zip",
+      "id": "5580232a4448c9055378b60bcab0bda9",
       "romtype": "OFFICIAL",
-      "size": 579804268,
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/markw/dotOS-P-v3.1-markw-OFFICIAL-20190724-1853.zip",
-      "version": "v3.1",
-      "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Brand New design",
-      "changelog_device" : "- July security patch\n- Kernel updated to 3.18.149-Nosgoth_V7_MOD\n- Radio was added back and fixed\n- Google Camera Mod was removed\n- Latest @SonicBSV Device tree modified by @shihabzz\n- Latest @SonicBSV Vendor tree modified by @shihabzz\n- Updated blobs from Tissot\n- Updated Graphics stack from Aquarius X2\n- The microphone gain is adjusted synchronously with denoiser microphone gain. By @Razziell\n- Sticking of battery charge by 50% was fixed. By @Razziell",
-      "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "July 05 2019"
+      "size": 581969171,
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/markw/dotOS-P-v3.1.1-markw-OFFICIAL-20190824-1736.zip",
+      "version": "v3.1.1",
+      "changelog_system": "",
+      "changelog_misc" : "",
+      "changelog_device" : "- lcd_density value was changed from 440 to 420\n- dotOS sources update(3.1.1)",
+      "changelog_settings" : "",
+      "changelog_securitypatch" : "August 01 2019"
     }
   ]
 }
