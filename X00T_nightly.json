@@ -1,0 +1,24 @@
+{
+    "response": [
+       {
+        "datetime": 1566846609, 
+        "filename": "dotOS-P-v3.1.1-X00T-NIGHTLY-20190826-1910.zip", 
+        "id": "3ba4f7ce419093abf673ac919e8ddfb8", 
+        "romtype": "NIGHTLY",
+        "size": 643273973, 
+        "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.1.1-X00T-NIGHTLY-20190826-1910.zip", 
+        "version": "v3.1.1",
+        "changelog_system": "Brand new UI",
+        "changelog_misc" : "Old bugs has been fixes",
+        "changelog_device" : "Firmware 056 blobs added, Sound quality improvements, Google play protect certified",
+        "changelog_settings" : "New UI",
+        "changelog_securitypatch" : "August 01 2019",
+        "maintainer_name" : "Kapil Tapsi",
+        "maintainer_xda" : "https://forum.xda-developers.com/member.php?u=6034616",
+        "maintainer_other" : "Write Quick Description",
+        "maintainer_telegram" : "https://t.me/KapilTapsi",
+        "maintainer_devices" : "X00T",
+        "maintainer_img_url" : "https://i.imgur.com/I747OrD.jpg"
+      }
+    ]
+  }
