@@ -1,0 +1,24 @@
+{
+    "response": [
+       {
+        "datetime": 1567101500,
+        "filename": "dotOS-P-v3.1.1-rolex-NIGHTLY-20190829-1758.zip",
+        "id": "17b4b304245320a4bc15f3a8ab65890a",
+        "romtype": "NIGHTLY",
+        "size": 588496348,
+        "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/rolex/dotOS-P-v3.1.1-rolex-NIGHTLY-20190829-1758.zip",
+        "version": "v3.1.1",
+        "changelog_system": "Brand new UI",
+        "changelog_misc" : "Old bugs has been fixes",
+        "changelog_device" : "New Changes",
+        "changelog_settings" : "New UI",
+        "changelog_securitypatch" : "August 01 2019",
+        "maintainer_name" : "Manohar Singh",
+        "maintainer_xda" : "https://forum.xda-developers.com/member.php?u=9802095",
+        "maintainer_other" : "Rolex",
+        "maintainer_telegram" : "https://t.me/adi153",
+        "maintainer_devices" : "rolex",
+        "maintainer_img_url" : "https://imgur.com/gallery/pnhxDEg"
+      }
+    ]
+  }
