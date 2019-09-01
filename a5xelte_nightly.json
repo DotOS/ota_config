@@ -1,0 +1,18 @@
+{
+  "response": [
+     {
+      "datetime": 1567347330, 
+      "filename": "dotOS-P-v3.1.1-a5xelte-NIGHTLY-20190901-1415.zip", 
+      "id": "8402686ce572bd5ddac827e3af8fb362", 
+      "romtype": "NIGHTLY",
+      "size": 412896434, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/s5neolte/dotOS-P-v3.1.1-a5xelte-NIGHTLY-20190901-1415.zip", 
+      "version": "v3.1.1",
+      "changelog_system": "",
+      "changelog_misc" : "",
+      "changelog_device" : "",
+      "changelog_settings" : "",
+      "changelog_securitypatch" : "August 01 2019"
+    }
+  ]
+}
